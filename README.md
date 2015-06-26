@@ -1,2 +1,8 @@
 # StockProject
-testing
+
+
+## basic tools
+
+* scrapy
+* scikit
+
